@@ -5,9 +5,9 @@
 #### Principais Tecnologias utlizadas no desenvolvimento
 - React
 - Redux
+- Tailwind CSS
 - Java
 - MySQL
-- Tailwind CSS
 - Quarkus
 
 
