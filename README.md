@@ -14,5 +14,3 @@
 - <a href="https://github.com/IsaacMagno/dronefeeder">Dronelivery FrontEnd</a>
 - <a href="https://github.com/IsaacMagno/dronefeeder-db">Dronelivery BackEnd</a>
 
-##### O projeto já está online:
-- <a href="https://dronefeederapp.herokuapp.com/">Dronelivery</a>
